@@ -17,3 +17,5 @@ or
 
 python random_scripts\show_lidar_vis.py -h # for help
 ```
+
+Check out [Demo video](submission/LidarVisualizationScript.mp4)
