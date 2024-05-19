@@ -5,3 +5,4 @@ seaborn
 tensorflow
 notebook
 PyQt6
+tqdm

@@ -1,5 +1,10 @@
-*.*env
+*.*env*
 tmp
 **__pycache__
 *.docx
 *.dot
+vids/
+**.json
+**.mp4
+**.pdf
+*.zip
